@@ -24,3 +24,10 @@ https://bakendgolang.herokuapp.com/
 # Revision Logs
 heroku logs --tail
 ```
+
+
+## Ejecutar Proyecto
+```bash
+go build main.go
+go run main.go
+```
